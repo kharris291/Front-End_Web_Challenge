@@ -1,0 +1,76 @@
+body {
+  padding: 10px;
+  font-family: sans-serif;
+}
+
+
+
+.bigPart{
+	width: 70%;
+	display: inline-block;
+}
+
+.smallPart{
+	width: 30%;
+	float: left;
+	display: inline-block;
+}
+
+.lol{
+	display: inline-flex;
+	width: 100%;
+	height: -webkit-fill-available;
+}
+
+
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.column {
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
+}
+
+.innerColumn {
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
+  margin-right: 3;
+}
+
+.itemName{
+	width: 40%;
+	display: inline-block;
+}
+
+.itemContent{
+	width: 60%; 
+	display: inline-block;
+}
+
+
+.itemDetails{
+	display: inline-block;
+    width: 25%;
+    min-width: 25%;
+}
+
+
+
+.shoppingcartContainer{
+    width: 50%;
+    display: inline-block;
+    float: left;
+}
+
+
+.foodListContainer{	
+    width: 50%;
+    display: inline-block;
+
+}
