@@ -15,7 +15,6 @@ class Info extends Component {
 
   handleUpdate(args){
     var inList = false;
-    console.log(this)
     this.props.addInState(args)
 
 

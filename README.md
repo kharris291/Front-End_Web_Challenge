@@ -8,7 +8,6 @@ meteorjs installation - https://www.meteor.com/install
 Must run in terminal from the base directory
 
 #command to use
-meteor npm install --save @babel/runtime react react-dom react-router-dom
-semantic-ui-react
+meteor npm install --save @babel/runtime react react-dom react-router-dom semantic-ui-react
 meteor
 

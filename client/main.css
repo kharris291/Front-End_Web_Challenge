@@ -3,26 +3,6 @@ body {
   font-family: sans-serif;
 }
 
-
-
-.bigPart{
-	width: 70%;
-	display: inline-block;
-}
-
-.smallPart{
-	width: 30%;
-	float: left;
-	display: inline-block;
-}
-
-.lol{
-	display: inline-flex;
-	width: 100%;
-	height: -webkit-fill-available;
-}
-
-
 .row {
   display: flex;
   flex-direction: row;
